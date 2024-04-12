@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joehbenti
 - 👀 I’m interested in design and web development
-- 🌱 I’m currently learning fron end development
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on component building from design to development
 - 📫 How to reach me Twitter @_anomadsoul
 
